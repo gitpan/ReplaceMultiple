@@ -3,7 +3,7 @@ package ReplaceMultiple;
 use strict;
 use warnings;
 
-our $VERSION = 1.00;
+our $VERSION = 1.01;
 
 our (@ISA, @EXPORT);
 require Exporter; @ISA = qw(Exporter);
